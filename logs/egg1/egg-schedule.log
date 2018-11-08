@@ -1,0 +1,8 @@
+2018-11-08 15:41:53,366 INFO 87636 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-09 00:00:00.000
+2018-11-08 15:41:53,367 INFO 87636 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-09 00:00:01.000
+2018-11-08 15:45:27,078 INFO 87892 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-09 00:00:00.000
+2018-11-08 15:45:27,079 INFO 87892 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-09 00:00:01.000
+2018-11-08 15:47:54,776 INFO 721 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-09 00:00:00.000
+2018-11-08 15:47:54,778 INFO 721 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-09 00:00:01.000
+2018-11-08 17:31:26,173 INFO 8927 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-11-09 00:00:00.000
+2018-11-08 17:31:26,174 INFO 8927 [Timer] /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-11-09 00:00:01.000

@@ -1,0 +1,262 @@
+{
+  "keys": "/Users/beata/rrj/me/egg1/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/beata/rrj/me/egg1/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/beata/rrj/me/egg1/config/config.default.js"
+    },
+    "root": "/Users/beata/rrj/me/egg1/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/beata/rrj/me/egg1/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/beata/rrj/me/egg1/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/beata/rrj/me/egg1/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/beata/rrj/me/egg1/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/beata/rrj/me/egg1/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/beata/rrj/me/egg1/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/beata/rrj/me/egg1/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/beata/rrj/me/egg1/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/beata/rrj/me/egg1/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/beata/rrj/me/egg1/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/beata/rrj/me/egg1/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/beata/rrj/me/egg1/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/beata/rrj/me/egg1/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/beata/rrj/me/egg1/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/beata/rrj/me/egg1/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/beata/rrj/me/egg1/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/beata/rrj/me/egg1/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/beata/rrj/me/egg1/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/beata/rrj/me/egg1/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/beata/rrj/me/egg1/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/beata/rrj/me/egg1/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/beata/rrj/me/egg1/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/beata/rrj/me/egg1/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/beata/rrj/me/egg1/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/beata/rrj/me/egg1/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/beata/rrj/me/egg1/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/beata/rrj/me/egg1/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/beata/rrj/me/egg1/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/beata/rrj/me/egg1/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/beata/rrj/me/egg1/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/beata/rrj/me/egg1/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/beata/rrj/me/egg1/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/beata/rrj/me/egg1/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/beata/rrj/me/egg1/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/beata/rrj/me/egg1/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/beata/rrj/me/egg1/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/beata/rrj/me/egg1/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/beata/rrj/me/egg1/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/beata/rrj/me/egg1/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/beata/rrj/me/egg1/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/beata/rrj/me/egg1/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "name": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "version": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "description": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "main": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "dev": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "license": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "strict": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "depth": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "env": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "level": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "logging": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "port": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/beata/rrj/me/egg1/node_modules/egg/config/config.default.js"
+}
