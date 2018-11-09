@@ -9,6 +9,10 @@
     "cache": "/Users/beata/rrj/me/egg1/node_modules/egg-view/config/config.local.js",
     "defaultExtension": "/Users/beata/rrj/me/egg1/node_modules/egg-view/config/config.default.js"
   },
+  "news": {
+    "pageSize": "/Users/beata/rrj/me/egg1/config/config.default.js",
+    "serverUrl": "/Users/beata/rrj/me/egg1/config/config.default.js"
+  },
   "session": {
     "maxAge": "/Users/beata/rrj/me/egg1/node_modules/egg-session/config/config.default.js",
     "key": "/Users/beata/rrj/me/egg1/node_modules/egg-session/config/config.default.js",

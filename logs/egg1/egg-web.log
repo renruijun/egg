@@ -532,3 +532,230 @@
 2018-11-09 11:30:15,786 INFO 14395 [egg-watcher:application] watcher start success
 2018-11-09 11:30:15,792 INFO 14395 [egg:core] dump config after ready, 4ms
 2018-11-09 11:30:26,404 INFO 14395 [egg-view-nunjucks] loading templates from ["/Users/beata/rrj/me/egg1/app/view"]
+2018-11-09 11:36:44,435 INFO 15534 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:36:44,481 INFO 15534 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:36:44,481 INFO 15534 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:36:44,482 INFO 15534 [egg-multipart] stream mode enable
+2018-11-09 11:36:44,539 INFO 15534 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:36:44,542 INFO 15534 [egg-security] use csrf middleware
+2018-11-09 11:36:44,543 INFO 15534 [egg-security] use methodnoallow middleware
+2018-11-09 11:36:44,543 INFO 15534 [egg-security] use noopen middleware
+2018-11-09 11:36:44,543 INFO 15534 [egg-security] use nosniff middleware
+2018-11-09 11:36:44,544 INFO 15534 [egg-security] use xssProtection middleware
+2018-11-09 11:36:44,544 INFO 15534 [egg-security] use xframe middleware
+2018-11-09 11:36:44,544 INFO 15534 [egg-security] use dta middleware
+2018-11-09 11:36:44,544 INFO 15534 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:36:44,555 INFO 15534 [egg:core] dump config after load, 6ms
+2018-11-09 11:36:44,569 INFO 15534 [egg-watcher:application] watcher start success
+2018-11-09 11:36:44,575 INFO 15534 [egg:core] dump config after ready, 4ms
+2018-11-09 11:37:24,999 INFO 15590 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:37:25,042 INFO 15590 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:37:25,042 INFO 15590 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:37:25,043 INFO 15590 [egg-multipart] stream mode enable
+2018-11-09 11:37:25,105 INFO 15590 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:37:25,108 INFO 15590 [egg-security] use csrf middleware
+2018-11-09 11:37:25,108 INFO 15590 [egg-security] use methodnoallow middleware
+2018-11-09 11:37:25,109 INFO 15590 [egg-security] use noopen middleware
+2018-11-09 11:37:25,110 INFO 15590 [egg-security] use nosniff middleware
+2018-11-09 11:37:25,110 INFO 15590 [egg-security] use xssProtection middleware
+2018-11-09 11:37:25,110 INFO 15590 [egg-security] use xframe middleware
+2018-11-09 11:37:25,110 INFO 15590 [egg-security] use dta middleware
+2018-11-09 11:37:25,111 INFO 15590 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:37:25,126 INFO 15590 [egg:core] dump config after load, 11ms
+2018-11-09 11:37:25,142 INFO 15590 [egg-watcher:application] watcher start success
+2018-11-09 11:37:25,148 INFO 15590 [egg:core] dump config after ready, 4ms
+2018-11-09 11:39:45,089 INFO 15773 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:39:45,163 INFO 15773 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:39:45,163 INFO 15773 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:39:45,164 INFO 15773 [egg-multipart] stream mode enable
+2018-11-09 11:39:45,269 INFO 15773 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:39:45,275 INFO 15773 [egg-security] use csrf middleware
+2018-11-09 11:39:45,277 INFO 15773 [egg-security] use methodnoallow middleware
+2018-11-09 11:39:45,277 INFO 15773 [egg-security] use noopen middleware
+2018-11-09 11:39:45,279 INFO 15773 [egg-security] use nosniff middleware
+2018-11-09 11:39:45,281 INFO 15773 [egg-security] use xssProtection middleware
+2018-11-09 11:39:45,281 INFO 15773 [egg-security] use xframe middleware
+2018-11-09 11:39:45,282 INFO 15773 [egg-security] use dta middleware
+2018-11-09 11:39:45,282 INFO 15773 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:39:45,300 INFO 15773 [egg:core] dump config after load, 10ms
+2018-11-09 11:39:45,314 INFO 15773 [egg-watcher:application] watcher start success
+2018-11-09 11:39:45,321 INFO 15773 [egg:core] dump config after ready, 5ms
+2018-11-09 11:39:50,083 INFO 15782 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:39:50,121 INFO 15782 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:39:50,121 INFO 15782 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:39:50,122 INFO 15782 [egg-multipart] stream mode enable
+2018-11-09 11:39:50,187 INFO 15782 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:39:50,190 INFO 15782 [egg-security] use csrf middleware
+2018-11-09 11:39:50,191 INFO 15782 [egg-security] use methodnoallow middleware
+2018-11-09 11:39:50,192 INFO 15782 [egg-security] use noopen middleware
+2018-11-09 11:39:50,193 INFO 15782 [egg-security] use nosniff middleware
+2018-11-09 11:39:50,194 INFO 15782 [egg-security] use xssProtection middleware
+2018-11-09 11:39:50,194 INFO 15782 [egg-security] use xframe middleware
+2018-11-09 11:39:50,195 INFO 15782 [egg-security] use dta middleware
+2018-11-09 11:39:50,195 INFO 15782 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:39:50,209 INFO 15782 [egg:core] dump config after load, 7ms
+2018-11-09 11:39:50,223 INFO 15782 [egg-watcher:application] watcher start success
+2018-11-09 11:39:50,229 INFO 15782 [egg:core] dump config after ready, 4ms
+2018-11-09 11:43:05,075 INFO 16039 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:43:05,118 INFO 16039 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:43:05,118 INFO 16039 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:43:05,119 INFO 16039 [egg-multipart] stream mode enable
+2018-11-09 11:43:05,188 INFO 16039 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:43:05,191 INFO 16039 [egg-security] use csrf middleware
+2018-11-09 11:43:05,191 INFO 16039 [egg-security] use methodnoallow middleware
+2018-11-09 11:43:05,192 INFO 16039 [egg-security] use noopen middleware
+2018-11-09 11:43:05,192 INFO 16039 [egg-security] use nosniff middleware
+2018-11-09 11:43:05,193 INFO 16039 [egg-security] use xssProtection middleware
+2018-11-09 11:43:05,193 INFO 16039 [egg-security] use xframe middleware
+2018-11-09 11:43:05,194 INFO 16039 [egg-security] use dta middleware
+2018-11-09 11:43:05,194 INFO 16039 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:43:05,211 INFO 16039 [egg:core] dump config after load, 9ms
+2018-11-09 11:43:05,234 INFO 16039 [egg-watcher:application] watcher start success
+2018-11-09 11:43:05,242 INFO 16039 [egg:core] dump config after ready, 4ms
+2018-11-09 11:43:06,690 INFO 16043 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:43:06,740 INFO 16043 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:43:06,740 INFO 16043 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:43:06,741 INFO 16043 [egg-multipart] stream mode enable
+2018-11-09 11:43:06,798 INFO 16043 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:43:06,801 INFO 16043 [egg-security] use csrf middleware
+2018-11-09 11:43:06,802 INFO 16043 [egg-security] use methodnoallow middleware
+2018-11-09 11:43:06,802 INFO 16043 [egg-security] use noopen middleware
+2018-11-09 11:43:06,803 INFO 16043 [egg-security] use nosniff middleware
+2018-11-09 11:43:06,803 INFO 16043 [egg-security] use xssProtection middleware
+2018-11-09 11:43:06,803 INFO 16043 [egg-security] use xframe middleware
+2018-11-09 11:43:06,804 INFO 16043 [egg-security] use dta middleware
+2018-11-09 11:43:06,804 INFO 16043 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:43:06,815 INFO 16043 [egg:core] dump config after load, 7ms
+2018-11-09 11:43:06,831 INFO 16043 [egg-watcher:application] watcher start success
+2018-11-09 11:43:06,838 INFO 16043 [egg:core] dump config after ready, 4ms
+2018-11-09 11:43:12,712 INFO 16054 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:43:12,757 INFO 16054 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:43:12,757 INFO 16054 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:43:12,757 INFO 16054 [egg-multipart] stream mode enable
+2018-11-09 11:43:12,821 INFO 16054 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:43:12,824 INFO 16054 [egg-security] use csrf middleware
+2018-11-09 11:43:12,825 INFO 16054 [egg-security] use methodnoallow middleware
+2018-11-09 11:43:12,825 INFO 16054 [egg-security] use noopen middleware
+2018-11-09 11:43:12,826 INFO 16054 [egg-security] use nosniff middleware
+2018-11-09 11:43:12,826 INFO 16054 [egg-security] use xssProtection middleware
+2018-11-09 11:43:12,826 INFO 16054 [egg-security] use xframe middleware
+2018-11-09 11:43:12,827 INFO 16054 [egg-security] use dta middleware
+2018-11-09 11:43:12,827 INFO 16054 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:43:12,839 INFO 16054 [egg:core] dump config after load, 6ms
+2018-11-09 11:43:12,853 INFO 16054 [egg-watcher:application] watcher start success
+2018-11-09 11:43:12,860 INFO 16054 [egg:core] dump config after ready, 5ms
+2018-11-09 11:43:29,444 INFO 16083 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:43:29,506 INFO 16083 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:43:29,506 INFO 16083 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:43:29,506 INFO 16083 [egg-multipart] stream mode enable
+2018-11-09 11:43:29,559 INFO 16083 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:43:29,562 INFO 16083 [egg-security] use csrf middleware
+2018-11-09 11:43:29,563 INFO 16083 [egg-security] use methodnoallow middleware
+2018-11-09 11:43:29,563 INFO 16083 [egg-security] use noopen middleware
+2018-11-09 11:43:29,564 INFO 16083 [egg-security] use nosniff middleware
+2018-11-09 11:43:29,564 INFO 16083 [egg-security] use xssProtection middleware
+2018-11-09 11:43:29,564 INFO 16083 [egg-security] use xframe middleware
+2018-11-09 11:43:29,565 INFO 16083 [egg-security] use dta middleware
+2018-11-09 11:43:29,565 INFO 16083 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:43:29,575 INFO 16083 [egg:core] dump config after load, 5ms
+2018-11-09 11:43:29,587 INFO 16083 [egg-watcher:application] watcher start success
+2018-11-09 11:43:29,593 INFO 16083 [egg:core] dump config after ready, 3ms
+2018-11-09 11:44:50,348 INFO 16205 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:44:50,387 INFO 16205 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:44:50,387 INFO 16205 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:44:50,388 INFO 16205 [egg-multipart] stream mode enable
+2018-11-09 11:44:50,457 INFO 16205 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:44:50,460 INFO 16205 [egg-security] use csrf middleware
+2018-11-09 11:44:50,460 INFO 16205 [egg-security] use methodnoallow middleware
+2018-11-09 11:44:50,461 INFO 16205 [egg-security] use noopen middleware
+2018-11-09 11:44:50,461 INFO 16205 [egg-security] use nosniff middleware
+2018-11-09 11:44:50,462 INFO 16205 [egg-security] use xssProtection middleware
+2018-11-09 11:44:50,462 INFO 16205 [egg-security] use xframe middleware
+2018-11-09 11:44:50,462 INFO 16205 [egg-security] use dta middleware
+2018-11-09 11:44:50,462 INFO 16205 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:44:50,474 INFO 16205 [egg:core] dump config after load, 6ms
+2018-11-09 11:44:50,486 INFO 16205 [egg-watcher:application] watcher start success
+2018-11-09 11:44:50,493 INFO 16205 [egg:core] dump config after ready, 5ms
+2018-11-09 11:49:46,336 INFO 16593 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:49:46,430 INFO 16593 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:49:46,430 INFO 16593 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:49:46,431 INFO 16593 [egg-multipart] stream mode enable
+2018-11-09 11:49:46,503 INFO 16593 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:49:46,506 INFO 16593 [egg-security] use csrf middleware
+2018-11-09 11:49:46,507 INFO 16593 [egg-security] use methodnoallow middleware
+2018-11-09 11:49:46,507 INFO 16593 [egg-security] use noopen middleware
+2018-11-09 11:49:46,508 INFO 16593 [egg-security] use nosniff middleware
+2018-11-09 11:49:46,509 INFO 16593 [egg-security] use xssProtection middleware
+2018-11-09 11:49:46,509 INFO 16593 [egg-security] use xframe middleware
+2018-11-09 11:49:46,510 INFO 16593 [egg-security] use dta middleware
+2018-11-09 11:49:46,510 INFO 16593 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:49:46,522 INFO 16593 [egg:core] dump config after load, 6ms
+2018-11-09 11:49:46,536 INFO 16593 [egg-watcher:application] watcher start success
+2018-11-09 11:49:46,548 INFO 16593 [egg:core] dump config after ready, 8ms
+2018-11-09 11:50:28,380 INFO 16647 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:50:28,418 INFO 16647 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:50:28,418 INFO 16647 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:50:28,418 INFO 16647 [egg-multipart] stream mode enable
+2018-11-09 11:50:28,473 INFO 16647 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:50:28,476 INFO 16647 [egg-security] use csrf middleware
+2018-11-09 11:50:28,476 INFO 16647 [egg-security] use methodnoallow middleware
+2018-11-09 11:50:28,477 INFO 16647 [egg-security] use noopen middleware
+2018-11-09 11:50:28,477 INFO 16647 [egg-security] use nosniff middleware
+2018-11-09 11:50:28,478 INFO 16647 [egg-security] use xssProtection middleware
+2018-11-09 11:50:28,478 INFO 16647 [egg-security] use xframe middleware
+2018-11-09 11:50:28,478 INFO 16647 [egg-security] use dta middleware
+2018-11-09 11:50:28,478 INFO 16647 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:50:28,488 INFO 16647 [egg:core] dump config after load, 5ms
+2018-11-09 11:50:28,502 INFO 16647 [egg-watcher:application] watcher start success
+2018-11-09 11:50:28,510 INFO 16647 [egg:core] dump config after ready, 5ms
+2018-11-09 11:51:52,417 INFO 16756 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:51:52,455 INFO 16756 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:51:52,455 INFO 16756 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:51:52,456 INFO 16756 [egg-multipart] stream mode enable
+2018-11-09 11:51:52,506 INFO 16756 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:51:52,508 INFO 16756 [egg-security] use csrf middleware
+2018-11-09 11:51:52,509 INFO 16756 [egg-security] use methodnoallow middleware
+2018-11-09 11:51:52,509 INFO 16756 [egg-security] use noopen middleware
+2018-11-09 11:51:52,510 INFO 16756 [egg-security] use nosniff middleware
+2018-11-09 11:51:52,510 INFO 16756 [egg-security] use xssProtection middleware
+2018-11-09 11:51:52,510 INFO 16756 [egg-security] use xframe middleware
+2018-11-09 11:51:52,511 INFO 16756 [egg-security] use dta middleware
+2018-11-09 11:51:52,511 INFO 16756 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:51:52,521 INFO 16756 [egg:core] dump config after load, 6ms
+2018-11-09 11:51:52,534 INFO 16756 [egg-watcher:application] watcher start success
+2018-11-09 11:51:52,540 INFO 16756 [egg:core] dump config after ready, 4ms
+2018-11-09 11:52:43,563 INFO 16820 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:52:43,603 INFO 16820 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:52:43,603 INFO 16820 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:52:43,604 INFO 16820 [egg-multipart] stream mode enable
+2018-11-09 11:52:43,667 INFO 16820 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:52:43,671 INFO 16820 [egg-security] use csrf middleware
+2018-11-09 11:52:43,671 INFO 16820 [egg-security] use methodnoallow middleware
+2018-11-09 11:52:43,672 INFO 16820 [egg-security] use noopen middleware
+2018-11-09 11:52:43,672 INFO 16820 [egg-security] use nosniff middleware
+2018-11-09 11:52:43,673 INFO 16820 [egg-security] use xssProtection middleware
+2018-11-09 11:52:43,673 INFO 16820 [egg-security] use xframe middleware
+2018-11-09 11:52:43,673 INFO 16820 [egg-security] use dta middleware
+2018-11-09 11:52:43,673 INFO 16820 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:52:43,685 INFO 16820 [egg:core] dump config after load, 6ms
+2018-11-09 11:52:43,700 INFO 16820 [egg-watcher:application] watcher start success
+2018-11-09 11:52:43,707 INFO 16820 [egg:core] dump config after ready, 4ms
+2018-11-09 11:53:01,463 INFO 16844 [egg:logger] init all loggers with options: {"dir":"/Users/beata/rrj/me/egg1/logs/egg1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-09 11:53:01,502 INFO 16844 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-11-09 11:53:01,502 INFO 16844 [egg-schedule]: register schedule /Users/beata/rrj/me/egg1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-11-09 11:53:01,502 INFO 16844 [egg-multipart] stream mode enable
+2018-11-09 11:53:01,560 INFO 16844 [egg-static] starting static serve /public/ -> /Users/beata/rrj/me/egg1/app/public
+2018-11-09 11:53:01,563 INFO 16844 [egg-security] use csrf middleware
+2018-11-09 11:53:01,564 INFO 16844 [egg-security] use methodnoallow middleware
+2018-11-09 11:53:01,564 INFO 16844 [egg-security] use noopen middleware
+2018-11-09 11:53:01,565 INFO 16844 [egg-security] use nosniff middleware
+2018-11-09 11:53:01,565 INFO 16844 [egg-security] use xssProtection middleware
+2018-11-09 11:53:01,566 INFO 16844 [egg-security] use xframe middleware
+2018-11-09 11:53:01,566 INFO 16844 [egg-security] use dta middleware
+2018-11-09 11:53:01,566 INFO 16844 [egg-security] compose 7 middlewares into one security middleware
+2018-11-09 11:53:01,576 INFO 16844 [egg:core] dump config after load, 5ms
+2018-11-09 11:53:01,588 INFO 16844 [egg-watcher:application] watcher start success
+2018-11-09 11:53:01,594 INFO 16844 [egg:core] dump config after ready, 4ms
+2018-11-09 13:12:06,562 WARN 16844 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-09 14:07:49,486 WARN 16844 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-11-09 14:09:48,310 INFO 16844 [egg-view-nunjucks] loading templates from ["/Users/beata/rrj/me/egg1/app/view"]
